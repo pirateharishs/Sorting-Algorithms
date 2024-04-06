@@ -22,9 +22,12 @@ To write a program to perform selection sort and insertion sort using python pro
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
 i)	#Selection Sort
+
+
 ![image](https://github.com/pirateharishs/Sorting-Algorithms/assets/166011385/f01d552a-107b-41ac-87cc-b598d04019a0)
 
 ii)	#Insertion Sort
+
 
 ![image](https://github.com/pirateharishs/Sorting-Algorithms/assets/166011385/d9187544-0db5-4e8c-a43f-9a536c5b6095)
 
