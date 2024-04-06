@@ -34,9 +34,13 @@ ii)	#Insertion Sort
 
 ## Output:
 i)	#Selection Sort
+
+
 ![image](https://github.com/pirateharishs/Sorting-Algorithms/assets/166011385/e56e0eb6-0dd3-47b5-a062-7cf986c5304a)
 
 ii)	#Insertion Sort
+
+
 ![image](https://github.com/pirateharishs/Sorting-Algorithms/assets/166011385/a217950c-bf94-455b-adbb-638f84b48acb)
 
 
