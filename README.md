@@ -1,3 +1,6 @@
+## Developed by: HARISH S
+## REG-NO: 212223230071
+
 # Selection sort and Insertion sort
 ## Aim:
 To write a program to perform selection sort and insertion sort using python programming.
@@ -19,24 +22,19 @@ To write a program to perform selection sort and insertion sort using python pro
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
 i)	#Selection Sort
-```
+![image](https://github.com/pirateharishs/Sorting-Algorithms/assets/166011385/f01d552a-107b-41ac-87cc-b598d04019a0)
 
-
-
-
-
-```
 ii)	#Insertion Sort
-```
 
+![image](https://github.com/pirateharishs/Sorting-Algorithms/assets/166011385/d9187544-0db5-4e8c-a43f-9a536c5b6095)
 
-
-
-
-
-```
 
 ## Output:
+i)	#Selection Sort
+![image](https://github.com/pirateharishs/Sorting-Algorithms/assets/166011385/e56e0eb6-0dd3-47b5-a062-7cf986c5304a)
+
+ii)	#Insertion Sort
+![image](https://github.com/pirateharishs/Sorting-Algorithms/assets/166011385/a217950c-bf94-455b-adbb-638f84b48acb)
 
 
 ## Result:
